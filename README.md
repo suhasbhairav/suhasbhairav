@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suhas Bhairav
 - 👀 I’m interested in MERN Stack, React Native,  Machine Learning and Deep Learning 
-- 🌱 I’m currently learning Deep Learning 
+- 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on React JS and React Native applications; ML and Deep Learning libraries 
 - 📫 You can reach me on suhasbhairav@gmail.com
 
